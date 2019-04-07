@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">zadanie1_RM</string>
+    <string name="todo">TODO</string>
+    <string name="change_contact">Change Contact</string>
+    <string-array name="my_contacts">
+        <item>Monika</item>
+        <item>Aleksander</item>
+        <item>Martyna</item>
+        <item>Waldemar</item>
+        <item>Michał</item>
+        <item>Paweł</item>
+    </string-array>
+
+    <string name="change_sound">Change Sound</string>
+    <string name="radiobutton1">radiobutton1</string>
+    <string name="radiobutton2">radiobutton2</string>
+    <string name="radiobutton3">radiobutton3</string>
+    <string name="radiobutton4">radiobutton4</string>
+    <string name="radiobutton5">radiobutton5</string>
+    <string name="radiobutton6">radiobutton6</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="cancel_sound">Cancel</string>
+    <string name="ok_sound">OK</string>
+    <string-array name="sounds">
+        <item>sound1</item>
+        <item>sound2</item>
+        <item>sound3</item>
+        <item>sound4</item>
+        <item>sound5</item>
+        <item>sound6</item>
+    </string-array>
+
+    <string-array name="images">
+        <item>kameleon</item>
+        <item>pica</item>
+    </string-array>
+
+
+
+
+</resources>
